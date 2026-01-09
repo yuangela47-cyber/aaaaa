@@ -55,3 +55,11 @@ npm run build
 - **src/**: 原始程式碼
 - **vite.config.ts**: Vite 建置設定
 
+## ✅ 完成項目 (Completed Requirements)
+
+1.  **[x] Package.json 設定與安裝**：已設定並確認可正常運行 (`npm run dev`)。
+2.  **[x] GitHub Action 設計**：已建立自動化部署流程 (`.github/workflows/deploy.yml`)。
+3.  **[x] .gitignore 設計**：已配置忽略清單，排除不必要檔案。
+4.  **[x] 操作記錄**：相關操作與設定已記錄於本 `README.md` 文件中。
+
+
